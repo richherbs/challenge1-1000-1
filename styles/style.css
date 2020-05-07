@@ -1,0 +1,42 @@
+@font-face{
+    font-family: '8-bit';
+    src: url('PressStart2P-vaV7.ttf') format('truetype');
+}
+
+.explode{
+    background-image: url('../image/boom.jpg');
+    background-size: cover;
+    height: 100px;
+    width:100px;
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.eagle{
+    background-image: url('../image/eagle.jpg');
+    background-size: cover;
+    height: 100px;
+    width:100px;
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.blood{
+    background-image: url('../image/blood.jpg');
+    background-size: cover;
+    height: 100px;
+    width:100px;
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.text{
+    position: relative;
+    top: 33%;
+    color: yellow;
+    font-family: '8-bit';
+    font-size: 2rem;
+}

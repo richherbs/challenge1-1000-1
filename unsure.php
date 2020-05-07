@@ -1,0 +1,1 @@
+<?$y=range(1000,1);echo'<pre>';print_r($y);echo'<pre>';
